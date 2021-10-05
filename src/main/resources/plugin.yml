@@ -1,0 +1,4 @@
+name: KingdomPlugin
+version: '${project.version}'
+main: me.tqqn.kp.Main
+api-version: 1.17
